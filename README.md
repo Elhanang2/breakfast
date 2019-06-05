@@ -1,0 +1,4 @@
+# breakfast
+---
+permalink: /breakfast.html
+---
